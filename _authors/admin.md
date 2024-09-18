@@ -1,6 +1,6 @@
 ---
 username: admin
-name: Dann Kanigan
+name: Zhengyi Shen
 image: '/images/01-1.jpg'
 website: https://www.google.com
 twitter: https://twitter.com
