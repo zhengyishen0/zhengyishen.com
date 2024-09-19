@@ -6,8 +6,8 @@ date: 2023-08-31T16:41:32.462Z
 author: admin
 image: images/blog-challenge.png
 slug: blog-challenge
-featured: true
 tags: [30-day-challenge]
+featured: true
 ---
 
 ## The Call to Challenge
