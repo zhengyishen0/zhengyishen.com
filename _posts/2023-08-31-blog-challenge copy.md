@@ -4,7 +4,7 @@ title: What I Learned After Writing 10 Blogs in 30 Days
 description: I challenged myself to write 10 blogs in 30 days, there I've grown my muscle and started to find my voice through writing.
 date: 2023-08-31T16:41:32.462Z
 author: admin
-image: 'images/blog-challenge.png'
+image: images/blog-challenge.png
 slug: blog-challenge
 featured: true
 tags: [30-day-challenge]

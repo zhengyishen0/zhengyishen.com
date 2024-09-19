@@ -1,5 +1,7 @@
 # Dann – Multipurpose Jekyll Blog Theme
 
+[Documentation](file:///Users/shenzhengyi/Downloads/dann-jekyll-theme-v1.2/Documentation/index.html#configurations)
+
 Dann is a multi-purpose, creative, and modern theme for Jekyll. The main features of the theme are full compatibility with Github Pages, featured post slider, video post support, multiple authors support, and high performance. This theme is perfectly suitable for blogging and personal website.
 
 * * *
