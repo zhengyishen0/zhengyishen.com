@@ -63,5 +63,6 @@
     }
   ],
   "frontMatter.git.enabled": true,
-  "frontMatter.website.host": "zhengyishen.com"
+  "frontMatter.website.host": "zhengyishen.com",
+  "frontMatter.dashboard.openOnStart": true
 }
