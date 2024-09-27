@@ -1,16 +1,11 @@
 ---
 title: From Conflicts To Collaborations (What Leaders Can Learn from Negotiation Experts)
 date: 2023-08-21T19:47:12.738Z
-categories: []
 tags: []
-img_path: /assets/img/
-image: /conflicts.jpeg
+image: images/conflicts.jpeg
 slug: conflicts-to-collaborations
-keywords:
-  - leadership
-  - negotiation
-  - conflict management
 description: The mindsets and skills that every leaders need to turn conflicts into collaborations.
+featured: true
 ---
 
 Have you ever felt frustration in team collaborations or tense conversations with partners? Then this is the article for you.
@@ -60,11 +55,3 @@ Even though you did everything right in a negotiation, the situation can still b
 ## Conclusion
 
 Now you have learned how to think and act like a negotiation expert. Try to apply these skills in your business deals, team collaborations, or conversations with family members. You will gradually see more collaborations and fewer conflicts in your life.
-
----
-
-<!-- prettier-ignore -->
-> **I’d love to hear your thoughts! Let me know on Twitter [@ZhengyiShen](https://twitter.com/intent/tweet?text=@ZhengyiShen&url={{ page.url | absolute_url }})**
-{: .prompt-tip }
-
-{% include links.md %}

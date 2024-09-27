@@ -1,18 +1,12 @@
 ---
 title: "Clipping: Show Your Work! (Austin Kleon)"
 date: 2023-08-16T17:53:14.977Z
-categories:
-  - book notes
-  - clippings
 tags:
   - book notes
   - clippings
-img_path: /assets/img/
-image: /show-your-work.jpg
+image: images/show-your-work.jpg
 slug: show-your-work
 description: Posting your creations out there is vital today, allowing you to connect with kindred spirits, build authority and trust, and open up new career avenues.
-keywords:
-  - creativity
 ---
 
 ## **Takeaways**
@@ -157,13 +151,3 @@ In their book, Significant Objects, Joshua Glenn and Rob Walker recount an exper
 ## **Reference**
 
 - [Show Your Work!](https://austinkleon.com/show-your-work/), [Austin Kleon](https://twitter.com/austinkleon)
-
----
-
-<!-- prettier-ignore -->
-> **I’d love to hear your thoughts! Let me know on Twitter [@ZhengyiShen](https://twitter.com/intent/tweet?text=@ZhengyiShen&url={{ page.url | absolute_url }})**
-{: .prompt-tip }
-
-{% include links.md %}
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Write &amp; Grow Blog in 30 Days: Day 30 <br><br>“Show Your Work! ” by Austin Kleon (<a href="https://twitter.com/austinkleon?ref_src=twsrc%5Etfw">@austinkleon</a>) 📖 <br><br>The book that inspired me to start blogging. <br>A must-read for creators, entrepreneurs, and artists in this digital age.<a href="https://twitter.com/hashtag/30daychallenge?src=hash&amp;ref_src=twsrc%5Etfw">#30daychallenge</a> <a href="https://twitter.com/hashtag/WritingCommunity?src=hash&amp;ref_src=twsrc%5Etfw">#WritingCommunity</a> <a href="https://twitter.com/hashtag/book?src=hash&amp;ref_src=twsrc%5Etfw">#book</a><a href="https://t.co/4AkRQWfA2k">https://t.co/4AkRQWfA2k</a></p>&mdash; Zhengyi Shen (@ZhengyiShen) <a href="https://twitter.com/ZhengyiShen/status/1692661124037070944?ref_src=twsrc%5Etfw">August 18, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

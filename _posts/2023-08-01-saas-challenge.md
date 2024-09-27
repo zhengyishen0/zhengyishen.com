@@ -6,7 +6,8 @@ date: 2023-08-01T17:49:49.000Z
 author: admin
 tags: []
 image: '/images/twitter_1.png'
-slug: saas
+slug: saas-challenge
+featured: true
 ---
 
 > A journey of building an online community for achievers.
@@ -26,8 +27,6 @@ And here I am, reflecting on my journey and sharing the lessons I learned along 
 > _Everyone has a big idea, and so do I._
 
 My idea was motivated by [Barbara Sher](https://twitter.com/BarbaraSher) and her [Success Teams](http://shersuccessteams.com/). The work Barbara Sher has done is so heart-warming and empowering that inspired me to replicate her magic and build an online community where we support each other to become better selves.
-
-{% include embed/youtube.html id='H2rG4Dg6xyI' %}
 
 > _Why it matters?_
 
@@ -127,13 +126,3 @@ _See you in the next post!_
 2. [The Four Steps To Epiphany](https://a.co/d/9qVwCTM), [Steve Blank](https://twitter.com/sgblank)
 3. [$100M Offers](https://a.co/d/gFoNaGz), [Alex Hormozi](https://twitter.com/AlexHormozi)
 4. [Fireship.io](https://Fireship.io), [Jeff Delaney](https://twitter.com/Jeffdelaney23)
-
----
-
-<!-- prettier-ignore -->
-> **I’d love to hear your thoughts! Let me know on Twitter [@ZhengyiShen](https://twitter.com/intent/tweet?text=@ZhengyiShen&url={{ page.url | absolute_url }})**
-{: .prompt-tip }
-
-<!-- {% include links.md %} -->
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The recap of my 30-day journey building &amp; launching a SaaS<br><br>Huge thanks to <a href="https://twitter.com/Fer_MOMENTO?ref_src=twsrc%5Etfw">@Fer_MOMENTO</a> and Justin Hartung who motivated me with their achievements.<a href="https://twitter.com/hashtag/buildinpublic?src=hash&amp;ref_src=twsrc%5Etfw">#buildinpublic</a> <a href="https://twitter.com/hashtag/indiehackers?src=hash&amp;ref_src=twsrc%5Etfw">#indiehackers</a> <a href="https://twitter.com/hashtag/30daychallenge?src=hash&amp;ref_src=twsrc%5Etfw">#30daychallenge</a><br> <a href="https://t.co/IiUGGwOKcj">https://t.co/IiUGGwOKcj</a></p>&mdash; Zhengyi Shen (@ZhengyiShen) <a href="https://twitter.com/ZhengyiShen/status/1689353458028015617?ref_src=twsrc%5Etfw">August 9, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

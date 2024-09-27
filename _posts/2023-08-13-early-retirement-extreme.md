@@ -1,19 +1,11 @@
 ---
 title: "Clipping: Early Retirement Extreme (Jacob Lunder Fisker)"
 date: 2023-08-19T16:58:50.670Z
-categories:
-  - book notes
-  - clippings
 tags:
   - book notes
   - clippings
-img_path: /assets/img/
-image: /early-retirement-extreme.jpeg
+image: images/early-retirement-extreme.jpeg
 slug: early-retirement-extreme
-keywords:
-  - consumerism
-  - freedom
-  - financial independence
 description: The moment we realize that we are locked in the system as a wage slave, is the moment we awaken to the possibility of freedom.
 ---
 
@@ -151,13 +143,3 @@ _F.I.R.E_
 - [Early Retirement Extreme](http://earlyretirementextreme.com/), [Jacob Lunder Fisker](https://twitter.com/extremejacob)
 - [Ego Development Theory](https://www.researchgate.net/publication/356357233_Ego_Development_A_Full-Spectrum_Theory_Of_Vertical_Growth_And_Meaning_Making), [Susanne Cook-Greuter](https://instituteofcoaching.org/author/cook-greuter-susanne)
 - [One-Dimensional Man](https://en.wikipedia.org/wiki/One-Dimensional_Man), [Herbert Marcuse](https://en.wikipedia.org/wiki/Herbert_Marcuse)
-
----
-
-<!-- prettier-ignore -->
-> **I’d love to hear your thoughts! Let me know on Twitter [@ZhengyiShen](https://twitter.com/intent/tweet?text=@ZhengyiShen&url={{ page.url | absolute_url }})**
-{: .prompt-tip }
-
-{% include links.md %}
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“Early Retirement Extreme” by Jacob Lunder Fisker (<a href="https://twitter.com/extremejacob?ref_src=twsrc%5Etfw">@extremejacob</a>)📖 <br><br>This book is more than just a personal finance book. It is a profound reflection on modern life and a roadmap to regaining your freedom.<a href="https://twitter.com/hashtag/WritingCommunity?src=hash&amp;ref_src=twsrc%5Etfw">#WritingCommunity</a> <a href="https://twitter.com/hashtag/book?src=hash&amp;ref_src=twsrc%5Etfw">#book</a> <a href="https://t.co/wXnUgqg3oP">https://t.co/wXnUgqg3oP</a></p>&mdash; Zhengyi Shen (@ZhengyiShen) <a href="https://twitter.com/ZhengyiShen/status/1692959956083863985?ref_src=twsrc%5Etfw">August 19, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -1,18 +1,11 @@
 ---
 title: "Clipping: 2-Hour Writer (Dan Koe)"
 date: 2023-09-10T15:24:44.693Z
-categories:
-  - book notes
-  - clippings
 tags:
   - book notes
   - clippings
-img_path: /assets/img/
-image: 2-hour-writer.png
+image: images/2-hour-writer.png
 slug: 2-hour-writer
-keywords:
-  - writing
-  - life
 description: The wisdom of Dan Koe on writing, entrepreneurship, and life.
 ---
 
@@ -113,13 +106,3 @@ description: The wisdom of Dan Koe on writing, entrepreneurship, and life.
 ## Reference
 
 - [2-Hour Writer](https://2hourwriter.com/), [Dan Koe](https://thedankoe.com/)
-
----
-
-<!-- prettier-ignore -->
-> **Please leave a comment on the tweet below. I’d love to hear your thoughts! 👇**
-{: .prompt-tip }
-
-{% include links.md %}
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Dan Koe (<a href="https://twitter.com/thedankoe?ref_src=twsrc%5Etfw">@thedankoe</a>!) lied to me.<br><br>I purchased the &quot;2-hour writer&quot; thinking it was a writing course.<br><br>WRONG<br><br>It&#39;s a guide on how to live a Fulfilling Life!<br><br>~THREAD~</p>&mdash; Zhengyi Shen (@ZhengyiShen) <a href="https://twitter.com/ZhengyiShen/status/1700914956760166609?ref_src=twsrc%5Etfw">September 10, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
