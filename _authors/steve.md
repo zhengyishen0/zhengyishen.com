@@ -6,4 +6,4 @@ website: https://web.stanford.edu/group/e145/cgi-bin/winter/drupal/upload/handou
 twitter: https://twitter.com/sgblank
 # facebook: https://www.facebook.com
 ---
-Author of [The Four Steps To The Epiphany](https://zhengyishen.com/the-four-steps-to-the-epiphany)
+Author of [The Four Steps To The Epiphany](https://zhengyishen.com/steps-epiphany)
