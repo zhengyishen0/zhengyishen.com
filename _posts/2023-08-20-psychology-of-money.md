@@ -6,6 +6,7 @@ tags:
 image: images/pyschology-of-money.jpg
 slug: psychology-of-money
 description: Unveiling the truth of wealth and happiness.
+author: admin
 ---
 
 ## **Takeaways**

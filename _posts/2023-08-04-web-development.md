@@ -1,8 +1,7 @@
 ---
 title: Creative Coding Like an Artist
 date: 2023-08-04T19:24:49.166Z
-categories:
-  - 30daychallenge
+author: admin
 tags:
   - 30daychallenge
   - buildinpublic

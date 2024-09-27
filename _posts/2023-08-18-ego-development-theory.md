@@ -5,6 +5,7 @@ description: A roadmap of the human growth journey and a framework for understan
 date: 2023-08-18T18:04:26.574Z
 image: 'images/ego-development-theory.png'  
 slug: ego-development-theory
+author: admin
 ---
 
 > _Know Thyself – Socrates_

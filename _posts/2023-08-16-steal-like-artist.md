@@ -1,6 +1,7 @@
 ---
 title: "Clipping: Steal Like an Artist (Austin Kleon)"
 date: 2023-08-19T15:40:00.465Z
+author: admin
 tags:
   - book notes
 image: images/steal-like-artist.jpg

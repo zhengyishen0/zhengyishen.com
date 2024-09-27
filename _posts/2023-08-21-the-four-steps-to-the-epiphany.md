@@ -1,6 +1,7 @@
 ---
 title: "Clipping: The Four Steps To The Epiphany (Steve Blank)"
 date: 2023-08-21T18:55:07.908Z
+author: admin
 tags:
   - book notes
 image: images/four-steps-epiphany.png

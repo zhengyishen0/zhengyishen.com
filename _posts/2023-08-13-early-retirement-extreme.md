@@ -1,6 +1,7 @@
 ---
 title: "Clipping: Early Retirement Extreme (Jacob Lunder Fisker)"
 date: 2023-08-19T16:58:50.670Z
+author: admin
 tags:
   - book notes
   - clippings

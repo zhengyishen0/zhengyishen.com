@@ -1,6 +1,7 @@
 ---
 title: "Clipping: Show Your Work! (Austin Kleon)"
 date: 2023-08-16T17:53:14.977Z
+author: admin
 tags:
   - book notes
   - clippings

@@ -2,6 +2,7 @@
 title: From Conflicts To Collaborations (What Leaders Can Learn from Negotiation Experts)
 date: 2023-08-21T19:47:12.738Z
 tags: []
+author: admin
 image: images/conflicts.jpeg
 slug: conflicts-to-collaborations
 description: The mindsets and skills that every leaders need to turn conflicts into collaborations.

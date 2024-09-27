@@ -1,6 +1,7 @@
 ---
 title: "Clipping: 2-Hour Writer (Dan Koe)"
 date: 2023-09-10T15:24:44.693Z
+author: admin
 tags:
   - book notes
   - clippings
